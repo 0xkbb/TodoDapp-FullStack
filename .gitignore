@@ -1,0 +1,12 @@
+# frontend
+todo-frontend/node_modules
+todo-frontend/build
+todo-frontend/dist
+
+# foundry
+todo-solidity/out
+todo-solidity/cache
+todo-solidity/.env
+
+# env
+.env
